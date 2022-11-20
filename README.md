@@ -1,10 +1,10 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 
-Name : Gunaseelan G
+Name : SV ROHITHKUMAR
 
 
-Roll no: 212221230031
+Roll no: 212221230084
   
   
 ## Aim: 
